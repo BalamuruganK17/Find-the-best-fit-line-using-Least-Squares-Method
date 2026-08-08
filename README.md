@@ -1,9 +1,9 @@
 # Implementation of Univariate Linear Regression
+# Program to implement univariate Linear Regression to fit a straight line using least squares.
 
-/*Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by: BALAMURUGAN.K
-RegisterNumber:  212225040042
-/*
+## Developed by: BALAMURUGAN.K
+## RegisterNumber:  212225040042
+
 
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
